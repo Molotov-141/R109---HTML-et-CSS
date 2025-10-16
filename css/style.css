@@ -1,0 +1,67 @@
+body {
+    background-image: url("/images/background.png") ;
+    background-position: 0%;
+    background-size: cover;
+}
+h1 {
+    color: blue;
+    text-align: justify;
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: justify;
+    justify-content: center;
+    justify-items: center;
+}
+
+h2 {
+    color: white
+}
+
+h2 {
+    text-align: justify;
+    justify-content: center;
+    justify-items: center;
+}
+
+ul {
+    text-align: justify;
+    justify-content: center;
+    justify-items: center;
+    text
+}
+
+ul {
+    color: white;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}   
+.container > img {
+    margin: auto;
+}
+
+.container {
+  height: 200px;
+  display: flex;
+  align-items: left;
+  justify-content: right;
+}
+
+a {
+    text-align: left;
+    justify-content: left;
+    justify-items: left;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium';
+}
