@@ -25,15 +25,14 @@ h2 {
 
 h2 {
     text-align: justify;
-    justify-content: center;
-    justify-items: center;
+    justify-content: left;
 }
 
 ul {
-    text-align: justify;
-    justify-content: center;
-    justify-items: center;
-    text
+    align-content: flex-start;
+    align-items: left;
+    text-align: left;
+    justify-content: left;
 }
 
 ul {
